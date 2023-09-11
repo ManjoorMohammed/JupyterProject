@@ -1,0 +1,5 @@
+"This data analysis project was undertaken as a part of my Data Science and Analytics course, and it was executed in a Jupyter Notebook environment. The primary objective of this project was to analyze a dataset containing information about employees working in ABC Company. The dataset consisted of 458 rows and 9 columns, and it required thorough preprocessing and analysis to derive meaningful insights.
+
+Throughout this project, we conducted various data preprocessing tasks, including standardizing team names, generating random heights, and segregating employees by their positions. Our analysis also involved answering several key questions such as identifying the teams and positions with the highest salary spending, determining the age group most employees belong to, and investigating any correlation between age and salary.
+
+The use of Jupyter Notebook allowed for an interactive and documented exploration of the dataset, making it a valuable tool for data analysis in the field of Data Science and Analytics."
